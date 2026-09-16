@@ -1,0 +1,19 @@
+html {
+    background-color: violet;
+    font-family: "plau", sans-serif;
+}
+.Head-1 {
+    background-color: aliceblue;
+    color: greenyellow;
+    font-family: "Alien Block", sans-serif;
+    font-size: 60px;
+    line-height: 40px;
+    font-weight: 900;
+    text-align: center;
+}
+.Callout-1 {
+    color: orangered;
+}
+.adress {
+    text-align: right;
+}
